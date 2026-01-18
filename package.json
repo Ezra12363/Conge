@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "conge-management-system",
+  "version": "1.0.0",
+  "description": "Système de Gestion des Congés",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test",
+    "install": "cd frontend && npm install",
+    "install-frontend": "cd frontend && npm install",
+    "install-backend": "cd backend && composer install",
+    "dev": "cd frontend && npm start"
+  },
+  "keywords": ["conge", "management", "react", "laravel"],
+  "author": "",
+  "license": "ISC"
+}

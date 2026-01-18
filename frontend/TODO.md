@@ -1,0 +1,18 @@
+- [x] 2. Create API layer.
+- [x] 3. Build layout components (Navbar, Sidebar, etc.).
+- [x] 4. Create forms (LoginForm, LeaveForm, etc.).
+- [x] 5. Create tables and charts.
+- [x] 6. Implement auth pages (Login).
+- [x] 7. Implement employee pages (Dashboard, Balances, etc.).
+- [ ] 8. Implement RH pages.
+- [ ] 9. Implement admin pages.
+=======
+- [x] 1. Set up theme (Material-UI) and AuthContext.
+- [x] 2. Create API layer.
+- [x] 3. Build layout components (Navbar, Sidebar, etc.).
+- [x] 4. Create forms (LoginForm, LeaveForm, etc.).
+- [x] 5. Create tables and charts.
+- [x] 6. Implement auth pages (Login).
+- [x] 7. Implement employee pages (Dashboard, Balances, etc.).
+- [x] 8. Implement RH pages.
+- [x] 9. Implement admin pages.

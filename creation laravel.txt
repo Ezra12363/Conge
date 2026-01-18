@@ -1,0 +1,4 @@
+composer create-project laravel/laravel backend "9.2.*"
+
+Proxy error: Could not proxy request /api/login from localhost:3000 to http://localhost:8000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
